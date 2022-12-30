@@ -1,0 +1,19 @@
+/* Write your code here. */
+.main-container {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+}
+.emojis-container {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  align-items: center;
+  width: 80%;
+  flex-wrap: wrap;
+}
+.bottom-part {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}

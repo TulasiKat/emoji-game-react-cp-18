@@ -1,0 +1,31 @@
+/* Write your code here. */
+.game-finished {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  padding: 15px;
+}
+.text-part {
+  color: white;
+  font-family: white;
+  text-align: center;
+}
+.play-again-button {
+  background-color: #ffce27;
+  padding: 10px;
+  color: black;
+  border-radius: 10px;
+  border: none;
+}
+.win-loose {
+  height: 250px;
+  width: 250px;
+}
+.score {
+  color: #6a59ff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: roboto;
+}
